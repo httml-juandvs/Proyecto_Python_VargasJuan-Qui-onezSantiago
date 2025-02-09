@@ -1,4 +1,6 @@
 import json
+from aggcampers import *
+
 
 def abrirJSON():
     dicFinal={}
@@ -13,13 +15,17 @@ def guardarJSON(dic):
 campers={}
 booleanito = True
 while(booleanito == True):
+    print("//////////////////")
     print ("Bienvenido a Campuslands")
     print("1. Para inscribirse")
     print("2. Iniciar como Camper")
     print("3. Iniciar como Trainer")
     print("4. Iniciar como Coordinador")
     opt=input(":")
-campers=abrirJSON()
-if(opt=="1"):
-    print("Ingrese el documento de identidad: "
-          )
+    campers=abrirJSON()
+    if(opt=="1"):
+        agregarCamper()
+        
+
+
+        

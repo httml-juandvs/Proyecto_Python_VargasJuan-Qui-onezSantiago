@@ -1,0 +1,13 @@
+{
+    "Coordinador":[
+        {
+            "Numero de de Identificacion" : 0,
+            "Nombre" : "Andres",
+            "Apellido" : "Lizaraso",
+            "Horario": "Toda la mañana",
+            "Telefono" : 3024122807,
+            "Rol": "Coordinador"
+        }
+    ]
+
+}
