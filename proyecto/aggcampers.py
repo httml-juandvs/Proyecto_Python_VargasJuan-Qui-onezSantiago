@@ -1,12 +1,12 @@
 import json
 def abrirJSON():
     dicFinal = {}
-    with open('./campers.json', "r") as openFile:
+    with open('./campuslands.json', "r") as openFile:
         dicFinal = json.load(openFile)
     return dicFinal
 
 def guardarJSON(dic):
-    with open('./campers.json', "w") as outFile:
+    with open('./campuslands.json', "w") as outFile:
         json.dump(dic, outFile, indent=4)
 
 campers_data = abrirJSON()
