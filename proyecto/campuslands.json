@@ -62,6 +62,7 @@
                         "Direcci\u00c3\u00b3n": "Calle 60C # 16 F-66",
                         "Acudiente": "Claudia Yaneth Soto",
                         "Telefono": 3156478839,
+                        "Notas de admici\u00c3\u00b3n": "",
                         "Estado": {
                             "En proceso de ingreso": false,
                             "Inscrito": false,
@@ -70,7 +71,8 @@
                             "Graduado": false,
                             "Expulsado": false,
                             "Retirado": false,
-                            "Rehazado por prueba de ingreso": false
+                            "Rehazado por prueba de ingreso": false 
+                        
                         }
                     },
                     {
@@ -81,19 +83,16 @@
                             "Direcci\u00c3\u00b3n": "Calle 60C # 16 F-66",
                             "Acudiente": "Claudia Yaneth Soto",
                             "Telefono": 3156478839,
-                            "Estado": {
-                                "En proceso de ingreso": false,
-                                "Inscrito": false,
-                                "Aprobado": false,
-                                "Cursando": false,
+      
+                            "Cursando": false,
                                 "Graduado": false,
                                 "Expulsado": false,
                                 "Retirado": false,
                                 "Rehazado por prueba de ingreso": false
                             }
                         }
-                    }
                 ]
+                
             }
         },
         {
@@ -134,6 +133,22 @@
             "Direcci\u00f3n": "",
             "Acudiente": "",
             "Tel\u00e9fono": ""
+        },
+        {
+            "Numero de Identificaci\u00f3n": "128093092",
+            "Nombre": "Marco",
+            "Apellidos": "D",
+            "Direcci\u00f3n": "jadsfhuksafbafs",
+            "Acudiente": "dfuwfuowesfuoweh",
+            "Tel\u00e9fono": "303204384"
+        },
+        {
+            "Numero de Identificaci\u00f3n": "1097099391",
+            "Nombre": "SantiagoPk",
+            "Apellidos": "Aguilar",
+            "Direcci\u00f3n": "Calle 104#15d-27",
+            "Acudiente": "Sandra Vesga",
+            "Tel\u00e9fono": "3502812395"
         }
     ]
 }

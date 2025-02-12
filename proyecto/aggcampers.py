@@ -26,12 +26,17 @@ def agregarCamper():
     tel = input(": ")
     print("Camper Registrado con éxito")
     
+    fijo = input("Telefono fijo(Si no tien precione enter):")  # Define the variable "fijo"
+    
     campers_data["nuevoCamper"].append({
         "Numero de Identificación": id,
         "Nombre": nombre,
         "Apellidos": ap,
         "Dirección": direccion,
         "Acudiente": acu,
-        "Teléfono": tel  
+        "Teléfono de Celular": tel,
+        "Telefono fijo(Si no tien precione enter)": fijo,
+        "Notas de Admisión": "",
+        "Estado": ""
     })
     guardarJSON(campers_data)

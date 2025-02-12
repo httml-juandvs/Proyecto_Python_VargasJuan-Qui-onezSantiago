@@ -4,17 +4,13 @@
             "Numero de Identificacion": 1,
             "Nombre": "Pedro",
             "Apellidos": "Gomez",
-            "Horario":
-            [
-            {
+            "Horario": "",
             "HorarioDia": "6:00 am - 10:00 am",
             "HorarioMediam": "10:00 am - 2:00 am",
             "HorarioTarde": "2:00 pm - 6:00 pm",
-            "HorarioNoche": "6:00 pm - 10:00 pm"
-        }],
-            
+            "HorarioNoche": "6:00 pm - 10:00 pm",
             "Rol": "Trainer"
-        },
+    },
     {
             "Numero de Identificacion": 2,
             "Nombre": "Miguel",
@@ -46,4 +42,4 @@
             "Rol": "Trainer"
         }
     ]
-    }
+}

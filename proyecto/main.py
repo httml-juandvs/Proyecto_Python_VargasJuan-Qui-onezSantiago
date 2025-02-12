@@ -35,6 +35,7 @@ while(booleanito == True):
     if(opt==1):
         agregarCamper()
     elif(opt==2):
+        print("////////////////////")
         print("Bienvenido Camper")
         idCamper = (input("Ingrese su número de identificación: "))
         for i in range (len(campers["nuevoCamper"])):
@@ -48,16 +49,13 @@ while(booleanito == True):
     elif(opt==3):
         train=abrirJSONt()
         print("Bienvenido Trainer")
-        idTrainer = int(input("Ingrese su número de identificación: "))
+        idTrainer = (input("Ingrese su número de identificación: "))
         for i in range (len(train["trainers"])):
             verificacion=train["trainers"][i]["Numero de Identificacion"]
             if verificacion == idTrainer:
                 print("Bienvenido",train["trainers"][i]["Nombre"])
-                print("")
                 print("Su número de identificación es: ",train["trainers"][i]["Numero de Identificacion"])
-                print("")
-                print("Su rol es: ",train["trainers"][i]["Rol"])
-                print("")
-                print("Su horario es: ",train["trainers"][i]["Horario"])
+                print("Su dirección es: ",train["trainers"][i]["Dirección"])
+                print("Su número de teléfono es: ",train["trainers"][i]["Teléfono"])
     elif(opt==4):
         cordinador()    

@@ -1,0 +1,60 @@
+{
+    "inmuebles": [
+        {
+            "a\u00f1o": 2000,
+            "metros": 100,
+            "habitaciones": 3,
+            "garaje": true,
+            "zona": "A",
+            "precio": 97500.0
+        },
+        {
+            "a\u00f1o": 2012,
+            "metros": 60,
+            "habitaciones": 2,
+            "garaje": true,
+            "zona": "B",
+            "precio": 110925.0
+        },
+        {
+            "a\u00f1o": 1980,
+            "metros": 120,
+            "habitaciones": 4,
+            "garaje": false,
+            "zona": "A",
+            "precio": 77000.0
+        },
+        {
+            "a\u00f1o": 2005,
+            "metros": 75,
+            "habitaciones": 3,
+            "garaje": true,
+            "zona": "B",
+            "precio": 126000.0
+        },
+        {
+            "a\u00f1o": 2015,
+            "metros": 90,
+            "habitaciones": 2,
+            "garaje": false,
+            "zona": "A",
+            "precio": 90000.0
+        },
+        {
+            "zona": "A",
+            "a\u00f1o": 2023,
+            "metros": 250,
+            "habitaciones": 6,
+            "garaje": true,
+            "precio": 289100.0
+        },
+        {
+            "zona": "B",
+            "a\u00f1o": 2000,
+            "metros": 450,
+            "habitaciones": 12,
+            "garaje": true,
+            "precio": 590625.0
+        }
+    ]
+}
