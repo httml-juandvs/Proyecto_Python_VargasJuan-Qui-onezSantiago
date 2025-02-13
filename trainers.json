@@ -1,0 +1,53 @@
+
+{
+    "trainers": [
+        {
+            "Numero de Identificacion": 1,
+            "Nombre": "Pedro",
+            "Apellidos": "Gomez",
+            "Horario": {
+                "HorarioDia": "6:00 am - 10:00 am",
+                "HorarioMediam": "10:00 am - 2:00 pm",
+                "HorarioTarde": "2:00 pm - 6:00 pm",
+                "HorarioNoche": "6:00 pm - 10:00 pm",
+                "Rol": "Trainer"
+            }
+        },
+        {
+            "Numero de Identificacion": 2,
+            "Nombre": "Miguel",
+            "Apellidos": "Castro",
+            "Horario": {
+                "HorarioDia": "6:00 am - 10:00 am",
+                "HorarioMediam": "10:00 am - 2:00 pm",
+                "HorarioTarde": "2:00 pm - 6:00 pm",
+                "HorarioNoche": "6:00 pm - 10:00 pm",
+                "Rol": "Trainer"
+            }
+        },
+        {
+            "Numero de Identificacion": 3,
+            "Nombre": "Juan Carlos",
+            "Apellidos": "Mariño",
+            "Horario": {
+                "HorarioDia": "6:00 am - 10:00 am",
+                "HorarioMediam": "10:00 am - 2:00 pm",
+                "HorarioTarde": "2:00 pm - 6:00 pm",
+                "HorarioNoche": "6:00 pm - 10:00 pm",
+                "Rol": "Trainer"
+            }
+        },
+        {
+            "Numero de Identificacion": 4,
+            "Nombre": "Carlos",
+            "Apellidos": "Rueda",
+            "Horario": {
+                "HorarioDia": "6:00 am - 10:00 am",
+                "HorarioMediam": "10:00 am - 2:00 pm",
+                "HorarioTarde": "2:00 pm - 6:00 pm",
+                "HorarioNoche": "6:00 pm - 10:00 pm",
+                "Rol": "Trainer"
+            }
+        }
+    ]
+}

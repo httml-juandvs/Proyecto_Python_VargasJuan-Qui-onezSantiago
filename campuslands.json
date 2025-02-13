@@ -1,0 +1,264 @@
+{
+    "Campuslands": {
+        "p1": {
+            "trainer": [
+                {
+                    "Numero de Identificacion": 0,
+                    "Nombre": "Pedro",
+                    "Apellidos": "Gomez",
+                    "Horarios": "todo el dia",
+                    "Telefono": 0,
+                    "Rol": "Trainer"
+                }
+            ],
+            "campers": [
+                {
+                    "Numero de Identificaci\u00c3\u00b3n": 1097499083,
+                    "Nombre": "Juan David",
+                    "Apellidos": "Vargas Soto",
+                    "Direcci\u00c3\u00b3n": "Calle 60C # 16 F-66",
+                    "Acudiente": "Claudia Yaneth Soto",
+                    "Telefono": 3156478839,
+                    "Estado": {
+                        "En proceso de ingreso": false,
+                        "Inscrito": false,
+                        "Aprobado": false,
+                        "Cursando": false,
+                        "Graduado": false,
+                        "Expulsado": false,
+                        "Retirado": false,
+                        "Rehazado por prueba de ingreso": false
+                    }
+                },
+                {
+                    "Numero de Identificacion": "08",
+                    "Nombre": "pedro",
+                    "Apellidos": "+",
+                    "Estado": "",
+                    "Riesgo": false,
+                    "Horario": "",
+                    "Ruta": "",
+                    "Notas": {
+                        "modulo1": 0,
+                        "modulo2": 0,
+                        "modulo3": 0,
+                        "modulo4": 0,
+                        "modulo5": 0
+                    }
+                },
+                {
+                    "Numero de Identificacion": "07",
+                    "Nombre": "",
+                    "Apellidos": "",
+                    "Estado": "",
+                    "Riesgo": "",
+                    "Horario": "",
+                    "Ruta": "",
+                    "Notas": {
+                        "modulo1": 0,
+                        "modulo2": 0,
+                        "modulo3": 0,
+                        "modulo4": 0,
+                        "modulo5": 0
+                    }
+                }
+            ]
+        },
+        "m2": {
+            "trainer": [
+                {
+                    "Numero de Identificacion": 1,
+                    "Nombre": "Miguel",
+                    "Apellidos": "Castro",
+                    "Horarios": "toda la tarde",
+                    "Telefono": 0,
+                    "Rol": "Trainer"
+                }
+            ],
+            "Horario": {
+                "horas": ""
+            },
+            "ruta": {
+                "sosa": ""
+            },
+            "campers": [
+                {
+                    "Numero de Identificaci\u00c3\u00b3n": 1097499083,
+                    "Nombre": "Juan David",
+                    "Apellidos": "Vargas Soto",
+                    "Direcci\u00c3\u00b3n": "Calle 60C # 16 F-66",
+                    "Acudiente": "Claudia Yaneth Soto",
+                    "Telefono": 3156478839,
+                    "Nota de Admisi\u00c3\u00b3n": "",
+                    "Estado": {
+                        "En proceso de ingreso": false,
+                        "Inscrito": false,
+                        "Aprobado": false,
+                        "Cursando": false,
+                        "Graduado": false,
+                        "Expulsado": false,
+                        "Retirado": false,
+                        "Rehazado por prueba de ingreso": false
+                    }
+                }
+            ]
+        },
+        "m1": {
+            "trainer": [
+                {
+                    "Numero de Identificacion": 4,
+                    "Nombre": "Juan Carlos"
+                }
+            ],
+            "Horario": {
+                "horario": 1
+            },
+            "ruta": [
+                {
+                    "ruta": 1
+                }
+            ],
+            "campers": []
+        },
+        "S2": {
+            "trainer": [
+                {
+                    "Numero de Identificacion": 1,
+                    "Nombre": "Pedro"
+                }
+            ],
+            "Horario": {
+                "horario": 3
+            },
+            "ruta": [
+                {
+                    "ruta": 1
+                }
+            ],
+            "campers": []
+        }
+    },
+    "nuevoCamper": [
+        {
+            "Numero de Identificaci\u00f3n": "07",
+            "Nombre": "",
+            "Apellidos": "",
+            "Direcci\u00f3n": "",
+            "Acudiente": "",
+            "Tel\u00e9fono de Celular": "",
+            "Telefono fijo(Si no tien precione enter)": "",
+            "Nota de Admisi\u00f3n": "60",
+            "nombre": "",
+            "apellidos": "",
+            "numeroDocumento": "07",
+            "direccion": "",
+            "acudiente": "",
+            "telefonos": {
+                "celular": "",
+                "fijo": ""
+            },
+            "estado": "Inscrito",
+            "riesgo": "",
+            "horario": "",
+            "ruta": "",
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            }
+        },
+        {
+            "Numero de Identificaci\u00f3n": "08",
+            "Nombre": "pedro",
+            "Apellidos": "+",
+            "Direcci\u00f3n": "",
+            "Acudiente": "",
+            "Tel\u00e9fono de Celular": "",
+            "Telefono fijo(Si no tien precione enter)": "",
+            "Nota de Admisi\u00f3n": "",
+            "nombre": "pedro",
+            "apellidos": "+",
+            "numeroDocumento": "08",
+            "direccion": "",
+            "acudiente": "",
+            "telefonos": {
+                "celular": "",
+                "fijo": ""
+            },
+            "estado": "",
+            "riesgo": false,
+            "horario": "",
+            "ruta": "",
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            }
+        },
+        {
+            "Numero de Identificaci\u00f3n": "09 ",
+            "Nombre": "OmAR",
+            "Apellidos": "el CRACK",
+            "Direcci\u00f3n": "CAJASA",
+            "Acudiente": "ooo",
+            "Tel\u00e9fono de Celular": "frrffr",
+            "Telefono fijo(Si no tien precione enter)": "",
+            "Nota de Admisi\u00f3n": "",
+            "nombre": "OmAR",
+            "apellidos": "el CRACK",
+            "numeroDocumento": "09 ",
+            "direccion": "CAJASA",
+            "acudiente": "ooo",
+            "telefonos": {
+                "celular": "frrffr",
+                "fijo": ""
+            },
+            "estado": "",
+            "riesgo": false,
+            "horario": "",
+            "ruta": "",
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            }
+        },
+        {
+            "Numero de Identificaci\u00f3n": "1097100310",
+            "Nombre": "Santigo Andres",
+            "Apellidos": "Qu\u00f1ones Sosa",
+            "Direcci\u00f3n": "Calle 70 Udes Casa 120",
+            "Acudiente": "Lorena",
+            "Tel\u00e9fono de Celular": "3024122905",
+            "Telefono fijo(Si no tien precione enter)": "",
+            "Nota de Admisi\u00f3n": "",
+            "nombre": "Santigo Andres",
+            "apellidos": "Qu\u00f1ones Sosa",
+            "numeroDocumento": "10971003010",
+            "direccion": "Calle 70 Udes Casa 120",
+            "acudiente": "Lorena",
+            "telefonos": {
+                "celular": "3024122905",
+                "fijo": ""
+            },
+            "estado": "Inscrito",
+            "riesgo": false,
+            "horario": "6:00 am - 10:00 pm",
+            "ruta": "1. Java",
+            "Nota Admision": "",
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            }
+        }
+    ]
+}
